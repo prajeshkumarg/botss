@@ -1,0 +1,6 @@
+langchain
+langchain-anthropic
+langchain-groq
+langchain-core
+gradio
+python-dotenv
